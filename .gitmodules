@@ -1,0 +1,3 @@
+[submodule "plugin.video.redux"]
+	path = plugin.video.redux
+	url = git@bitbucket.org:thomaspreece/kodiredux.git

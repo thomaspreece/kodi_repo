@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.thomaspreece.plugins" name="ThomasPreece's repository" version="0.1.0" provider-name="Thomas Preece">
+	<extension point="xbmc.addon.repository" name="ThomasPreece's repository">
+		<info compressed="false">http://thomaspreece.com/KodiRepoAddons/addons.xml</info>
+		<checksum>http://thomaspreece.com/KodiRepoAddons/addons.xml.md5</checksum>
+		<datadir zip="true">http://thomaspreece.com/KodiRepoAddons/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>ThomasPreece's Repository</summary>
+		<description>Use this repository to keep BBCRedux plugin updated to the latest version</description>
+		<disclaimer>by Thomas Preece</disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>

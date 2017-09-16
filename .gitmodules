@@ -1,3 +1,12 @@
 [submodule "plugin.video.redux"]
-	path = plugin.video.redux
+	path = Addons/plugin.video.redux
 	url = git@bitbucket.org:thomaspreece/kodiredux.git
+[submodule "Addons/script.module.lockfile"]
+	path = Addons/script.module.lockfile
+	url = https://github.com/hbiyik/script.module.lockfile.git
+[submodule "Addons/script.module.htmlement"]
+	path = Addons/script.module.htmlement
+	url = https://github.com/hbiyik/script.module.htmlement.git
+[submodule "Addons/script.module.cachecontrol"]
+	path = Addons/script.module.cachecontrol
+	url = https://github.com/thomaspreece/script.module.cachecontrol.git
